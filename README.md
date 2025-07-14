@@ -24,70 +24,118 @@
 
 ---
 
-## 🧠 My Tech Toolbox – Core Skills
+# 🧠 My Tech Toolbox – Core Skills
 
-### 👨‍💻 Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Tech%20Skills&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Powered%20by%20Innovation&descAlignY=60&descSize=12"/>
+</div>
 
-### 📊 BI & Data Visualization Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/R%20Shiny-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoft&logoColor=white" />
-</p>
+## 👨‍💻 Programming Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="C++" title="C++" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="Java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=r" height="50" alt="R" title="R" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="SQL" title="SQL" />
+</div>
 
-### 🧠 Machine Learning & Data Science Libraries
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=C%2B%2B+%7C+Java+%7C+Python+%7C+R+%7C+SQL;Building+robust+applications+and+data+solutions" alt="Programming Languages" />
+</div>
 
-### 🗃 Big Data & Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
-  <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+---
 
-### 🛠 Development Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+## 📊 BI & Data Visualization Tools
+<div align="center">
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg?raw=true" height="50" alt="Power BI" title="Power BI" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="50" alt="Tableau" title="Tableau" />
+  <img src="https://skillicons.dev/icons?i=r" height="50" alt="R Shiny" title="R Shiny" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/streamlit.svg" height="50" alt="Streamlit" title="Streamlit" />
+</div>
 
-### 💼 Soft Skills
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=E97627&center=true&vCenter=true&width=600&lines=Power+BI+%7C+Tableau+%7C+R+Shiny+%7C+Streamlit;Transforming+data+into+visual+stories" alt="BI Tools" />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Problem%20Solving-%23FF8C00?style=for-the-badge&logo=criticalrole&logoColor=white" />
-  <img src="https://img.shields.io/badge/Team%20Player-%2300BFFF?style=for-the-badge&logo=teams&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adaptability-%23FF69B4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  <img src="https://img.shields.io/badge/Communication-%2300CED1?style=for-the-badge&logo=googlechat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Project%20Management-%23DAA520?style=for-the-badge&logo=trello&logoColor=white" />
-  <img src="https://img.shields.io/badge/Time%20Management-%239ACD32?style=for-the-badge&logo=clockify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Creativity-%23C71585?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Leadership-%238A2BE2?style=for-the-badge&logo=googlegroups&logoColor=white" />
-</p>
+---
 
+## 🧠 Machine Learning & Data Science Libraries
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas" title="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy" title="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50" alt="Matplotlib" title="Matplotlib" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="50" alt="Seaborn" title="Seaborn" />
+  <img src="https://skillicons.dev/icons?i=scikitlearn" height="50" alt="Scikit-learn" title="Scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="TensorFlow" title="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="PyTorch" title="PyTorch" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF6F00&center=true&vCenter=true&width=700&lines=Pandas+%7C+NumPy+%7C+Matplotlib+%7C+Seaborn+%7C+Scikit-learn;TensorFlow+%7C+PyTorch+%7C+Building+ML+Solutions" alt="ML Libraries" />
+</div>
+
+---
+
+## 🗃️ Big Data & Database Management
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="50" alt="Hadoop" title="Apache Hadoop" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" height="50" alt="Hive" title="Apache Hive" />
+  <img src="https://cdn.worldvectorlogo.com/logos/apache-hbase-logo.svg" height="50" alt="HBase" title="Apache HBase" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" height="50" alt="Excel" title="Microsoft Excel" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="50" alt="PostgreSQL" title="PostgreSQL" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=66CCFF&center=true&vCenter=true&width=700&lines=Hadoop+%7C+Hive+%7C+HBase+%7C+Pig+%7C+Excel+%7C+PostgreSQL;Managing+Big+Data+Ecosystems+%26+Databases" alt="Big Data Tools" />
+</div>
+
+---
+
+## 🛠️ Development Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="VS Code" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=r" height="50" alt="RStudio" title="RStudio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="Jupyter" title="Jupyter" />
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="50" alt="Colab" title="Google Colab" />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux" title="Linux" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML5" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS3" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="Docker" title="Docker" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=800&lines=Git+%7C+GitHub+%7C+VS+Code+%7C+RStudio+%7C+Jupyter+%7C+Colab;Linux+%7C+HTML5+%7C+CSS3+%7C+Docker+%7C+Development+Ecosystem" alt="Development Tools" />
+</div>
+
+---
+
+## 💼 Soft Skills
+<div align="center">
+  <img src="https://img.shields.io/badge/🧩%20Problem%20Solving-FF8C00?style=for-the-badge&logoColor=white&labelColor=FF8C00" height="50" alt="Problem Solving" />
+  <img src="https://img.shields.io/badge/🤝%20Team%20Player-00BFFF?style=for-the-badge&logoColor=white&labelColor=00BFFF" height="50" alt="Team Player" />
+  <img src="https://img.shields.io/badge/🔄%20Adaptability-FF69B4?style=for-the-badge&logoColor=white&labelColor=FF69B4" height="50" alt="Adaptability" />
+  <img src="https://img.shields.io/badge/💬%20Communication-00CED1?style=for-the-badge&logoColor=white&labelColor=00CED1" height="50" alt="Communication" />
+  <img src="https://img.shields.io/badge/📊%20Project%20Management-DAA520?style=for-the-badge&logoColor=white&labelColor=DAA520" height="50" alt="Project Management" />
+  <img src="https://img.shields.io/badge/⏰%20Time%20Management-9ACD32?style=for-the-badge&logoColor=white&labelColor=9ACD32" height="50" alt="Time Management" />
+  <img src="https://img.shields.io/badge/🎨%20Creativity-C71585?style=for-the-badge&logoColor=white&labelColor=C71585" height="50" alt="Creativity" />
+  <img src="https://img.shields.io/badge/👑%20Leadership-8A2BE2?style=for-the-badge&logoColor=white&labelColor=8A2BE2" height="50" alt="Leadership" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=C71585&center=true&vCenter=true&width=800&lines=Problem+Solving+%7C+Team+Player+%7C+Adaptability+%7C+Communication;Project+Management+%7C+Time+Management+%7C+Creativity+%7C+Leadership" alt="Soft Skills" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Always+Learning+%7C+Always+Growing;Let's+Build+Something+Amazing+Together!" alt="Footer Message" />
+</div>
 ---
 
 ## 🚀 Highlight Projects
