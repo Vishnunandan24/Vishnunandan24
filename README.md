@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Jonnalagadda Vishnu Nandan</h1>
 
-<h3 align="center">Aspiring Data Scientist | Power BI & Tableau Developer | Machine Learning Enthusiast | Data Engineering Learner</h3>
+<h3 align="center">Aspiring Data Scientist | Power BI & Tableau Developer | Artificial Intelligence & Machine Learning Enthusiast | Data Engineering Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFBB&center=true&vCenter=true&width=700&lines=Python+%7C+Power+BI+%7C+Tableau+%7C+SQL+%7C+ML+%7C+R+Studio+%7C+Hadoop;Interactive+Dashboards+%7C+ML+Modeling+%7C+Data+Visualization;Transforming+data+into+insightful+stories+%F0%9F%93%8A;Learning+Relentlessly+%F0%9F%92%AA" alt="Typing SVG" />
@@ -16,10 +16,10 @@
 ## 👨‍💻 About Me
 
 🎓 Final-year B.Tech CSE student at **Lovely Professional University**  
-🔬 Enthusiast in **Data Science, Machine Learning, Data Engineering, and BI Development**  
+🔬 Enthusiast in **Data Science, Artificial Intelligence & Machine Learning, Data Engineering, and BI Development**  
 📊 Strong in **dashboard development, ML modeling, and interactive visualizations**  
 🛠 Certified in tools like **Tableau, Excel, Python, R, and ML**  
-🌏 Open to internships or full-time roles in **Data Science, Analytics, or Engineering**  
+🌏 Open to internships or full-time roles in **Data Science, AI & ML, Analytics, or Engineering**  
 📍 Based in **India**
 
 ---
@@ -140,24 +140,24 @@
 
 ## 🚀 Highlight Projects
 
-### 📊 [📈 Data Science Job Trends and Salary Insights (2020–2023)](https://github.com/vishnunandan24/Data-Science-Job-Trends-and-Salary-Insight)
+### 🌦 [🌦 Smart Precipitation Classification & Forecasting System with Risk Alerts](https://github.com/Vishnunandan24/Smart-Precipitation-Classification-and-Forecasting-System-with-Risk-Alerts.git)
+> *Python • Streamlit • ML Classifiers • Forecasting • GenAI*  
+- Built a Smart Precipitation Classification System using KNN, Naive Bayes, Decision Tree, and SVM
+- Extended with a Decision Tree forecasting pipeline to predict humidity & precipitation type for the next 3 days using ARIMA a statistical method for time series analysis    and forecasting
+- Designed a risk alert mechanism to flag Low/Medium/High weather hazard levels
+- Developed an interactive Streamlit dashboard for EDA, Classification reports, model comparison, forecasts, and real-time simulation
+- Added a natural language Q&A interface to answer queries like “Will it rain tomorrow?” with model-driven outputs 
+---
+
+### 📊 [📈 Data Science Job Trends and Salary Insights (2020–2023)](https://github.com/Vishnunandan24/Data-Science-Job-Trends-And-Salary-Insights.git)
 > *Power BI • Slicers • Tree Maps • KPI Cards*  
 - Designed an **interactive dashboard** analyzing job trends, salaries, and skill demands  
 - Enabled filters by **year, country, job type**, and **company size**  
 - Derived key metrics on **top roles, salary ranges, and hiring trends**
-
 ---
 
-### 🌦 [🌧 Weather Precipitation Classification and Model Evaluation](https://github.com/vishnunandan24/Weather-Precipitation-Prediction-and-Model-Comparison-Dashboard)
-> *R Shiny • ML Classifiers • ggplot2*  
-- Used **KNN, Naive Bayes, Decision Tree, and SVM** for weather classification  
-- Visualized performance with **accuracy plots, confusion matrices, and dashboards**  
-- Cleaned data using R’s `scale()` and preprocessing techniques
-
----
-
-### 🌱 [🌾 Climate Change Impact on Agriculture – Tableau Dashboard](https://github.com/vishnunandan24/Climate-Change-Impact-On-Agriculture)
-> *Tableau Desktop • Tableau Prep • Interactive Filters*  
+### 🌱 [🌾 Climate Change Impact on Agriculture – Tableau Dashboard](https://github.com/Vishnunandan24/Climate-Change-Impact-On-Agriculture.git)
+> *Tableau Desktop  • Interactive Filters*  
 - Created a dynamic **dual-axis chart** for fertilizer vs. pesticide usage  
 - Used **area charts, tree maps, and region filters**  
 - Built for analyzing **climate impact on crop yield & economics**
